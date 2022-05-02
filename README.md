@@ -1,2 +1,2 @@
 # AI-Around-the-World
-Shiny App
+## Authors: Elena Sarandria, Brandon Vermeer, Matt Campbell
